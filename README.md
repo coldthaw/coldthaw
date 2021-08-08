@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @coldthaw
+- 👀 I’m interested in app and web development
+- 🌱 I’m currently learning ReactJS, NextJS, React Native, + other techs
+- 📫 Message me on discord: rtgyx#7964
